@@ -1,2 +1,2 @@
 # meteorOrion
-A blog website with meteor and orion
+A blog website with meteor and orionjs
